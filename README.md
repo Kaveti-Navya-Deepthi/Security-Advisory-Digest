@@ -2,10 +2,10 @@
 
 ## Team Members
 
-1. Gunjara Keerthana
+1. Kaveti Navya Deepthi
 2. Irikireddy Navya Sri
 3. Kalabai Gopi Chand
-4. Kaveti Navya Deepthi
+4. Gunjara Keerthana
 
 ---
 
