@@ -1,0 +1,13 @@
+streamlit
+pandas
+requests
+google-generativeai
+plotly
+fastapi
+uvicorn
+sqlalchemy
+pytest
+python-dotenv
+
+
+

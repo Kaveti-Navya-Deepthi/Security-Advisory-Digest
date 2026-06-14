@@ -1,0 +1,7 @@
+[
+  {
+    "cve_id": "CVE-2025-1001",
+    "severity": "HIGH",
+    "description": "Remote code execution vulnerability."
+  }
+]
